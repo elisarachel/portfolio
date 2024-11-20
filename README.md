@@ -7,15 +7,6 @@ Estudante de Desenvolvimento de Software Multiplataforma na Fatec SJC e desenvol
 
 ## Meus Projetos
 
-### Projeto de Portfólio Pessoal  
-Um portfólio online desenvolvido para apresentar minha trajetória acadêmica e profissional, bem como meus projetos e competências.
-- **Tecnologias Utilizadas:** Flask, Skeleton, Vercel  
-- **Destaques:** Responsividade, design limpo e organização de projetos com links diretos para repositórios e demonstrações.  
-- **Contribuições Pessoais:** Criei toda a estrutura do site, implementei o design responsivo e desenvolvi as integrações com plataformas externas.
-- **Hard Skills Efetivamente Desenvolvidas:** Flask, Skeleton, deploy em Vercel
-- **Soft Skills Efetivamente Desenvolvidas:** Proatividade, autonomia, foco em usabilidade
-- [Acesse o Portfólio](https://elisa-beninca-portfolio.vercel.app/)  
-
 ### APIs Acadêmicas  
 #### 1º Semestre  
 Participei do desenvolvimento de uma API voltada para um site com informações sobre Doença Renal Crônica em crianças, trabalhando em colaboração com mães de crianças acometidas pela condição para entender melhor suas necessidades. Este projeto foi especialmente significativo por envolver um impacto social direto. [Repositório](https://github.com/TeamHiveAPI/API-2023.2)
@@ -44,6 +35,16 @@ Arte para diferentes jogos, em 3D, 2D e pixel art, assim como o desenvolvimento 
 - **Hard Skills Efetivamente Desenvolvidas:** Modelagem 3D, texturização, design de UI
 - **Soft Skills Efetivamente Desenvolvidas:** Criatividade, adaptabilidade
 
+### Iniciação científica
+Desenvolvi uma pesquisa acadêmica focada no monitoramento e análise da qualidade do ar, utilizando dados ambientais para estudar os níveis de poluentes atmosféricos e suas implicações. O projeto foi fundamentado em dados reais, abordando metodologias de análise e a aplicação de técnicas computacionais para classificar e visualizar os resultados.
+- **Tecnologias Utilizadas:** Javascript, QGIS, CAMS Data Store, MySQL, KNN
+- **Contribuições Pessoais:**
+  - Desenvolvi algoritmos para processar e analisar dados de poluentes como CO, O₃, PM10 e PM2.5.
+  - Integrei técnicas de machine learning, como KNN, para classificar a qualidade do ar com base em diferentes combinações de poluentes.
+  - Usei ferramentas de geoprocessamento (QGIS e CAMS) para mapear e visualizar concentrações de poluentes em regiões específicas.
+  - Modelei o banco de dados para armazenar e organizar os dados processados.
+- **Hard Skills Efetivamente Desenvolvidas:** Processamento de dados ambientais, uso de ferramentas GIS, machine learning, processamento de imagem
+- **Soft Skills Efetivamente Desenvolvidas:** Pensamento crítico, organização, comunicação científica
 
 ---
 
