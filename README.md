@@ -29,12 +29,6 @@ Desenvolvemos um Portal de Transparência para a FAPG, permitindo que administra
 - **Hard Skills Efetivamente Desenvolvidas:** Spring, Axios, exportação para PDF/Excel, Java
 - **Soft Skills Efetivamente Desenvolvidas:** Planejamento com Scrum, resolução de problemas
 
-### Desenvolvimento de Jogos  
-Arte para diferentes jogos, em 3D, 2D e pixel art, assim como o desenvolvimento de UIs.
-- **Tecnologias Utilizadas:** Blender, Photoshop
-- **Hard Skills Efetivamente Desenvolvidas:** Modelagem 3D, texturização, design de UI
-- **Soft Skills Efetivamente Desenvolvidas:** Criatividade, adaptabilidade
-
 ### Iniciação científica
 Desenvolvi uma pesquisa acadêmica focada no monitoramento e análise da qualidade do ar, utilizando dados ambientais para estudar os níveis de poluentes atmosféricos e suas implicações. O projeto foi fundamentado em dados reais, abordando metodologias de análise e a aplicação de técnicas computacionais para classificar e visualizar os resultados.
 - **Tecnologias Utilizadas:** Javascript, QGIS, CAMS Data Store, MySQL, KNN
