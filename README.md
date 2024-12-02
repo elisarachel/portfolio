@@ -44,7 +44,7 @@ Estudante de Desenvolvimento de Software Multiplataforma na Fatec SJC e desenvol
 
 
 
-#### Meus principais conhecimentos
+## Meus principais conhecimentos
 - **Programação e Desenvolvimento de Software:** Python, C/C++, Java, JavaScript/TypeScript.
 - **Bancos de Dados:** MySQL, modelagem de dados.
 - **Ferramentas e Sistemas:** Git, Linux, Redis, MongoDB.
